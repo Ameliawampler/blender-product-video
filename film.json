@@ -1,0 +1,32 @@
+{
+  "title": "The Gate (example film)",
+  "palette": {
+    "primary": "#1F2A44",
+    "accent": "#4F8FBF",
+    "warm": "#E8A33D",
+    "soft": "#C9B8E0",
+    "deep": "#5B4B8A",
+    "paper": "#F4F1E8",
+    "alarm": "#C8372D"
+  },
+  "font": null,
+  "overlays": [
+    [0.8, 6.4, "Usage used to be predictable."],
+    [7.5, 11.6, "Same size. Same pace.\nEasy to price.", 0.30],
+    [12.8, 17.6, "Then everything changed."],
+    [18.8, 21.4, "Now every request is a different size."],
+    [21.8, 23.7, "Costs get hard to predict."],
+    [24.6, 29.6, "And when a spike hits,\nnothing stops it."],
+    [33.3, 35.7, "Your product puts you back in control."],
+    [37.8, 39.9, "Allowed.", 0.34],
+    [40.4, 42.4, "Metered.", 0.34],
+    [43.5, 45.7, "Blocked.", 0.34],
+    [46.5, 50.6, "Your one-line promise\ngoes here."]
+  ],
+  "ending": [
+    {"text": "YOUR TAGLINE", "row": 4, "color": "primary"},
+    {"text": "GOES HERE", "row": 11, "color": "primary"},
+    {"text": "TRY IT FREE", "row": 20, "color": "warm"},
+    {"text": "YOURSITE.COM", "row": 27, "color": "primary"}
+  ]
+}

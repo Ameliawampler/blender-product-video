@@ -1,0 +1,6 @@
+plates/
+layers/
+*.mp4
+__pycache__/
+*.blend
+*.blend1
