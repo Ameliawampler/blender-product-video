@@ -27,10 +27,14 @@ then being brought under control by a gate. Swap the metaphor for your own produ
 
 ## Use it as a skill
 
-Copy this folder into your skills directory (for Claude Code, `~/.claude/skills/blender-product-video/`)
-or upload it as a skill in Claude. Then ask for something like "make a launch video for my product
-with the blender-product-video skill". Claude reads [SKILL.md](SKILL.md) and works from the scripts
-here.
+The skill is [SKILL.md](SKILL.md) plus the scripts it drives.
+
+- **Claude app:** download [dist/blender-product-video.zip](dist/blender-product-video.zip) and upload
+  it under Settings, Capabilities, Skills.
+- **Claude Code:** clone this repo into `~/.claude/skills/blender-product-video/`.
+
+Then ask for something like "make a launch video for my product with the blender-product-video
+skill".
 
 ## Use it by hand
 
